@@ -26,7 +26,7 @@ create table users(
 
 create table sizes(
     id_size serial primary key,
-    shoe_size double not null unique
+    shoe_size float not null unique
 );
 
 
@@ -77,6 +77,6 @@ create table order_items(
         on delete set null
         on update cascade,
     amount int not null,
-    cost_for_item money not null,
-    cost numeric(12,2) generated always as ((amount)::numeric * cost_for_item::numeric) stored
+    cost_for_item numeric(12,2) not null, 
+    cost numeric(12,2) generated always as (amount * cost_for_item) stored
 );
