@@ -71,7 +71,7 @@
 Если пользователь не имеет роли администратора или менеджера, он получает возможность сортировки и поиска товаров.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.PNG" width="300" alt="Каталог для авторизованного пользователя">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.PNG" width="800" alt="Каталог для авторизованного пользователя">
 </p>
 
 ### **Заказы пользователя**
@@ -79,7 +79,7 @@
 Пользователь может оформлять свои заказы.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.PNG" width="800" alt="Заказы пользователя">
 </p>
 
 ### **Каталог для администратора**
@@ -87,7 +87,7 @@
 Администратор также может просматривать каталог товаров с сортировкой и поиском.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0.PNG" width="800" alt="Каталог для администратора">
 </p>
 
 ### **Заказы для администратора**
@@ -95,7 +95,7 @@
 Администратор оформляет заказы, просматривает заказы, состав конкретного заказа, добавляет новые заказы и удаляет существующие. Администратор имеет возможность редактировать заказ.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80.PNG" width="800" alt="Заказы для администратора">
 </p>
 
 ### **Каталог для менеджера**
@@ -103,7 +103,7 @@
 Менеджер в каталоге имеет аналогичные администратору возможности.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3.PNG" width="800" alt="Каталог для менеджера">
 </p>
 
 ### **Заказы для менеджера**
@@ -111,11 +111,11 @@
 Во вкладке "Заказы" менеджер может оформлять заказы, просматривать заказы и их составы.
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.PNG" width="800" alt="Заказы для менеджера">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0.PNG" width="300" alt="Экран входа в систему">
+  <img src="https://github.com/Svetlana184/MiracleShoes/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0.PNG" width="800" alt="Заказы для менеджера">
 </p>
 
 ## **Техническая часть**
